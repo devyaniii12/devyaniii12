@@ -17,7 +17,7 @@
 - 🧠 Regularly solving problems on LeetCode and participating in coding contests
 - 🤝 Open to collaborating on impactful software projects and clean UI development
 - 📚 Preparing for SDE roles with a strong foundation in data structures, algorithms, and core CS subjects
-- 📫 How to reach me: **[LinkedIn](www.linkedin.com/in/devyani-thakre-995a562a9)**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/devyani-thakre-995a562a9)**
 - ⚡ Beyond the Code – I'm committed to learning every day — building projects, sharpening my DSA skills, and consistently growing towards my goal of becoming an SDE.
 
 ---
@@ -62,7 +62,7 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/devyani-thakre-995a562a9" target="blank">
+  <a href="https://www.linkedin.com/in/devyani-thakre-995a562a9" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
