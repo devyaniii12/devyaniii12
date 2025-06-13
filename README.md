@@ -92,7 +92,7 @@ If you find my projects helpful or inspiring, consider showing your support:
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/devyaniii12" target="blank">
+  <a href="https://www.linkedin.com/in/devyani-thakre-995a562a9" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
   </a>
 </p>
