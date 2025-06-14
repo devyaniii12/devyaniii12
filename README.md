@@ -9,6 +9,8 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
 </p>
 
+
+
 ---
 ### 👩‍💻 About Me
 
@@ -38,6 +40,8 @@
 ### 🧾 GitHub Stats
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devyaniii12&label=Profile%20views&color=6b5b95&style=for-the-badge" alt="Profile views" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=devyaniii12&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
