@@ -14,7 +14,7 @@
 ---
 ### 👩‍💻 About Me
 
-- 📌 Currently focused on DSA, Java development, and building real-world web projects
+- 📌 Currently focused on DSA in Java and building real-world web projects
 - 🚧 Learning React and strengthening my understanding of core CS subjects like OS, DBMS, and OOPS
 - 🧠 Regularly solving problems on LeetCode and participating in coding contests
 - 🤝 Open to collaborating on impactful software projects and clean UI development
