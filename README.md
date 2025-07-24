@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm <span style="color:#fca311;">Devyani Thakre</span></h1>
-<h3 align="center">🚀 Future SDE | 🧠 DSA Practitioner  |☁️ Cloud Enthusiast | 💻 MERN Stack Developer| 🤖 ML & DL Learner |🌟 Building projects with purpose</h3>
+<h3 align="center">🚀 Future SDE | 🧠 DSA Enthusiast | ☁️ Cloud Explorer | 🤖 Learning ML/DL | 🧬 Passionate about AI | 🎯 Problem Solver  🌟 Building Smart Solutions</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F97316&center=true&vCenter=true&width=600&lines=👩‍💻+Software+Developer+in+the+making...;💡+Practicing+DSA+through+Coding+Contests;🎯+Focused+on+SDE+roles;⚡+Turning+Ideas+into+Code" alt="Typing SVG" />
