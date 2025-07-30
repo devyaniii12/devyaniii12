@@ -9,6 +9,9 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
 </p>
 
+<p align="center">
+  <em>"Imperfect beginnings, evolving code, and a relentless will to grow — that’s the story behind every commit."</em>
+</p>
 
 
 ---
