@@ -11,9 +11,8 @@
 
 <p align="center">
   <em>"Imperfect beginnings, evolving code, and a relentless will to grow — that’s the story behind every commit."</em>
-</p>
 
-
+ 
 ---
 ### 👩‍💻 About Me
 
