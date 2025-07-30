@@ -86,7 +86,7 @@
 If you find my projects helpful or inspiring, consider showing your support:
 
 <p align="center">
-  ⭐ Star this repository  
+  ⭐ Star my repositories 
   <br>📣 Share my work  
   <br>💬 Connect with me for collaborations
 </p>
