@@ -14,11 +14,11 @@
 ---
 ### 👩‍💻 About Me
 
-- 📌 Currently focused on DSA in Java and building real-world web projects
-- 🚧 Learning React and strengthening my understanding of core CS subjects like OS, DBMS, and OOPS
+- 📌 Currently focused on DSA in Java and building real-world projects
+- 🚧 Current focus is on Deep Learning and reinforcing knowledge of core CS subjects including OS, DBMS, and OOPS
 - 🧠 Regularly solving problems on LeetCode and participating in coding contests
-- 🤝 Open to collaborating on impactful software projects and clean UI development
-- 📚 Preparing for SDE roles with a strong foundation in data structures, algorithms, and core CS subjects
+- 🤝 Open to collaborating on impactful software projects and ML projects
+- 📚 Preparing for SDE roles with a strong foundation in data structures, algorithms, and core Computer Science subjects
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/devyani-thakre-995a562a9)** | **[Email](mailto:thakredevyani20@gmail.com)**
 - ⚡ Beyond the Code – I'm committed to learning every day — building projects, sharpening my DSA skills, and consistently growing towards my goal of becoming an SDE.
 
