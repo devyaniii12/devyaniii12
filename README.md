@@ -1,16 +1,19 @@
-<h1 align="center">Hey there! 👋 I'm <span style="color:#fca311;">Devyani Thakre</span></h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FCA311&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Devyani+Thakre" alt="Typing SVG" />
+</h1>
+
 <h3 align="center">🚀 Future SDE | 🧠 DSA Enthusiast | ☁️ Cloud Explorer | 🤖 Learning ML/DL | 🧬 Passionate about AI | 🎯 Problem Solver  🌟 Building Smart Solutions</h3>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F97316&center=true&vCenter=true&width=600&lines=👩‍💻+Software+Developer+in+the+making...;💡+Practicing+DSA+through+Coding+Contests;🎯+Focused+on+SDE+roles;⚡+Turning+Ideas+into+Code" alt="Typing SVG" />
-</p>
+</p>--->
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
 </p>
 
-<p align="center">
-  <em>"Imperfect beginnings, evolving code, and a relentless will to grow — that’s the story behind every commit."</em>
+<!--<p align="center">
+  <em>"Imperfect beginnings, evolving code, and a relentless will to grow — that’s the story behind every commit."</em>-->
 
  
 ---
