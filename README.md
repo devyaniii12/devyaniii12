@@ -1,6 +1,18 @@
-<h1 align="center">
+<!--<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FCA311&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Devyani+Thakre" alt="Typing SVG" />
+</h1-->
+<!--## Hi, I'm Devyani-->
+<h1 align="center">
+  ✨ <span style="color:#FCA311;">Hi, I'm Devyani Thakre</span> ✨
 </h1>
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=textBox&text=%E2%9C%A8%20Devyani%20Thakre%20%E2%9C%A8&width=600&height=100&color1=FCA311&color2=FF4D6D" alt="Devyani Thakre" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DevyaniThakre/DevyaniThakre/main/devyani-gradient.svg" alt="Devyani Thakre" />
+</p>
+
+
 
 <h3 align="center">🚀 Future SDE | 🧠 DSA Enthusiast | ☁️ Cloud Explorer | 🤖 Learning ML/DL | 🧬 Passionate about AI | 🎯 Problem Solver  🌟 Building Smart Solutions</h3>
 
