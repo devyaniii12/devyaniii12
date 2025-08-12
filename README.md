@@ -5,9 +5,8 @@
 <!--<h1 align="center">
   ✨ <span style="color:#FCA311;">Hi, I'm Devyani Thakre</span> ✨
 </h1>-->
-
 <p align="center">
-  <img src="download (6).svg" alt="Devyani Thakre" />
+  <img src="download (7).svg" alt="Devyani Thakre" />
 </p>
 
 
