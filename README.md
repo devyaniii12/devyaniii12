@@ -2,12 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FCA311&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Devyani+Thakre" alt="Typing SVG" />
 </h1-->
 <!--## Hi, I'm Devyani-->
-<h1 align="center">
+<!--<h1 align="center">
   ✨ <span style="color:#FCA311;">Hi, I'm Devyani Thakre</span> ✨
-</h1>
+</h1>-->
 <p align="center">
 <p align="center">
-  <img src="download.svg" alt="Devyani Thakre" />
+  <img src="download (1).svg" alt="Devyani Thakre" />
 </p>
 
 
