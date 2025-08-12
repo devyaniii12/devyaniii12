@@ -7,7 +7,7 @@
 </h1>-->
 
 <p align="center">
-  <img src="download (5).svg" alt="Devyani Thakre" />
+  <img src="download (6).svg" alt="Devyani Thakre" />
 </p>
 
 
