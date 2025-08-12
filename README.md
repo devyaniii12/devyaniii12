@@ -6,10 +6,8 @@
   ✨ <span style="color:#FCA311;">Hi, I'm Devyani Thakre</span> ✨
 </h1>
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=textBox&text=%E2%9C%A8%20Devyani%20Thakre%20%E2%9C%A8&width=600&height=100&color1=FCA311&color2=FF4D6D" alt="Devyani Thakre" />
-</p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DevyaniThakre/DevyaniThakre/main/devyani-gradient.svg" alt="Devyani Thakre" />
+  <img src="download.svg" alt="Devyani Thakre" />
 </p>
 
 
