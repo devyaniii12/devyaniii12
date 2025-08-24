@@ -1,9 +1,0 @@
-<svg fill="none" viewBox="0 0 800 150" width="800" height="150" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
-  <rect width="800" height="150" fill="#0d1117" rx="6"></rect>
-  
-  <!-- Main greeting text -->
-  <text x="400" y="95" font-family="Courier New, monospace" font-size="32" fill="#ff79c6" text-anchor="middle">
-    Hi! 👋 I'm Devyani Thakre
-  </text>
-</svg>
