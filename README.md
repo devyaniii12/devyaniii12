@@ -11,7 +11,7 @@
 </p>
 
 
-<h3 align="center">🚀 Future SDE | 🧠 DSA Enthusiast | ☁️ Cloud Explorer | 🤖 Learning ML/DL | 🧬 Passionate about AI | 🎯 Problem Solver  🌟 Building Smart Solutions</h3>
+<h3 align="center">🚀 Future SDE | 🧠 DSA Enthusiast | ☁️ Cloud Explorer | 🎨 Frontend Developer | 🤖 Passionate about AI | 🎯 Problem Solver </h3>
 
 <!--<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F97316&center=true&vCenter=true&width=600&lines=👩‍💻+Software+Developer+in+the+making...;💡+Practicing+DSA+through+Coding+Contests;🎯+Focused+on+SDE+roles;⚡+Turning+Ideas+into+Code" alt="Typing SVG" />
@@ -29,9 +29,9 @@
 ### 👩‍💻 About Me
 
 - 📌 Currently focused on DSA in Java and building real-world projects
-- 🚧 Current focus is on Deep Learning and reinforcing knowledge of core CS subjects including OS, DBMS, and OOPS
+- 🚧 Current focus is sharpening my frontend web development skills and reinforcing knowledge of core CS subjects including OS, DBMS, and OOPS
 - 🧠 Regularly solving problems on LeetCode and participating in coding contests
-- 🤝 Open to collaborating on impactful software projects and ML projects
+- 🤝 Open to collaborating on impactful frontend development and ML projects
 - 📚 Preparing for SDE roles with a strong foundation in data structures, algorithms, and core Computer Science subjects
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/devyani-thakre-995a562a9)** | **[Email](mailto:thakredevyani20@gmail.com)**
 - ⚡ Beyond the Code – I'm committed to learning every day — building projects, sharpening my DSA skills, and consistently growing towards my goal of becoming an SDE.
@@ -40,14 +40,15 @@
 ### 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![Javaccript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![Javaccript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
